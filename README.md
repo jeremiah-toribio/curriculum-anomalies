@@ -53,4 +53,4 @@ The curriculum data should be appropriately labeled, goal here is to make sure w
 
 
 ## Delivery
-     Send to staffrobinson@codeup.com
+     Send to staff-robinson@codeup.edu
